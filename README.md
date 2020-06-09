@@ -1,2 +1,2 @@
 # adsSEA144
-assignements
+assignments
